@@ -20,6 +20,7 @@ module.exports = {
           assets: './assets',
           config: './config',
           screens: './screens',
+          hooks: './hooks',
         },
       },
     ],

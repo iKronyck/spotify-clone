@@ -63,6 +63,7 @@
   "paths": {
     "@assets/": ["./assets/"],
     "@screens": ["./screens"],
-    "@config": ["./config"]
+    "@config": ["./config"],
+    "@hooks": ["./hooks"],
   },
 }
