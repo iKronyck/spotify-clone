@@ -58,5 +58,11 @@
   },
   "exclude": [
     "node_modules", "babel.config.js", "metro.config.js", "jest.config.js"
-  ]
+  ],
+  "baseUrl": "./src",
+  "paths": {
+    "@assets/": ["./assets/"],
+    "@screens": ["./screens"],
+    "@config": ["./config"]
+  },
 }
