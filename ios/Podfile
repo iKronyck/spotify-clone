@@ -26,6 +26,8 @@ end
 target 'SpotifyCloneRN-tvOS' do
   # Pods for SpotifyCloneRN-tvOS
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'SpotifyCloneRN-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
